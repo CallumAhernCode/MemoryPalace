@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    font-family: 'Cormorant Infant', serif;
+}
+
+h1 {
+    color: rgb(80, 80, 80);
+    font-size: 70px;
+}
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div {
+    padding-top: 100px;
+}
