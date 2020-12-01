@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: whitesmoke;
+    font-family: 'Cormorant Infant', serif;;
+}
+h1 {
+    letter-spacing: 5px;
+    padding-bottom: 10px;
+    color: black;
+}
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    opacity: 0.1;
+}
+footer {
+    padding-top: 20px;
+}
